@@ -1,7 +1,7 @@
 # ml06-recommender-systems
 Andrijana Marjanović
 
-Repozitorijum za projekat na kursku Mašinsko učenje sadrži različite pristupe implementaciji sistema za preporuku filmova. 
+Repozitorijum za projekat na kursu Mašinsko učenje sadrži različite pristupe implementaciji sistema za preporuku filmova. 
 
 Prikazane preporuke filmova iz baze podataka (http://files.grouplens.org/datasets/movielens/ml-latest-small-README.html) dobijaju se na osnovu različitih ideja kao sto su najpopularniji filmovi u pogledu broja dobijenih ocjena ili na osnovu najviše prosječne ocjene, zatim uopštene preporuke koje se daju svim korisnicima, kao i sličnost po sadržaju (Content-based Filtering) i kolaborativno filtriranje (Collaborative Filtering). U slučaju metoda preporučivanja na osnovu sadržaja, ne uzima se u obzir interesovanje korisnika, ni njegova povezanost sa drugim korisnicima, za razliku od CF u čemu se i ogleda prednost CF pristupa.
 
